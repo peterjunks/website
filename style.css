@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+h1 {
+    font-size:500%;
+    font-weight: 700;
+    color: wheat;
+}
+
+h2 {
+    font-size:400%;
+    font-weight: 700;
+    color: wheat;
+}
+
+h3 {
+    font-size:300%;
+    font-weight: 100;
+
+}
+
+p {
+    font-size:200%;
+    font-weight: 100;
+
+}
+
+q {
+    font-size:200%;
+    font-weight: 100;
+
+}
+
+blockquote {
+    font-size:200%;
+    font-weight: 100;
+
+}
+
+h4 {
+    font-size:100%;
+    font-weight: 100;
+
+}
+
+ul {
+    font-size:100%;
+    font-weight: 100;
+
+}
+
+li {
+    font-size:100%;
+    font-weight: 100;
+
+}
+
+p {
+    font-weight: 100;
+}
+
+
+.padding {
+    font-size:100%;
+    font-weight: 100;
+    padding: 0% 5% 0% 5%;
+}
+
+body {
+    /* background-color: wheat; */
+    background-image: url("emages/bigramen.webp");
+    background-color: black;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.800);
+    font-weight: 100;
+    color:rgb(255, 255, 255);
+
+    margin: 3%;
+}
+
+.center{
+    text-align: center;
+}
+
+.global {
+    color:rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.500);
+    width: 70vw;
+    margin:0 auto;
+}
+
+.logo {
+    background-image: url("emages/noodle-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:center;
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+    font-style: italic;
+    height:15vh ;   
+}
+
+.image1 {
+    background-image: url("emages/what.jpg");
+    height: 600px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:top;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.image2 {
+    background-image: url("emages/spaghetti.jpg");
+    height: 600px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:top;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.image3 {
+    background-image: url("emages/caveman.jpg");
+    height: 600px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:top;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.image4 {
+    background-image: url("emages/flour.jpg");
+    height: 600px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:top;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.image5 {
+    background-image: url("emages/lamian.jpg");
+    height: 300px;
+    width: 40vw;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.image6 {
+    background-image: url("emages/udon.jpg");
+    height: 300px;
+    width: 40vw;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.image7 {
+    background-image: url("emages/hofun.jpg");
+    height: 300px;
+    width: 40vw;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.image8 {
+    background-image: url("emages/ricev.jpg");
+    height: 300px;
+    width: 40vw;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.image9 {
+    background-image: url("emages/cello.jpg");
+    height: 300px;   
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.rimage1 {
+    background-image: url("emages/chef.jpg");
+    height: 600px;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;   
+}
+
+.rimage2 {
+    background-image: url("emages/leftover.webp");
+    height:fit-content;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: left;
+    padding: 5% 5% 5% 5%;
+}
+
+.rimage3 {
+    background-image: url("emages/egg-chow-fun.jpg");
+    height:fit-content;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    text-align: left;
+    padding: 5% 5% 5% 5%;
+}
+
+.rimage4 {
+    background-image: url("emages/Hot-Dry-Noodles.jpg");
+    height:fit-content;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    text-align: left;
+    padding: 5% 5% 5% 5%;
+}
+
+.rimage5 {
+    background-image: url("emages/where.jpg");
+    height:600px;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:top;
+    text-align: left;
+    padding: 5% 5% 5% 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-style: italic;  
+}
+
+iframe {
+    width: 70vw;
+    height: 40vw;
+    border-width: 0px;
+}
+
+#navbar {
+    height: 50px;
+    font-size: 200%;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2% 2% 2% 2%;
+}
+
+#navbar a {
+    color: white;
+    font-variant: small-caps;
+}
+
+#navbar a:hover {
+    color:wheat;
+}
+
+a {
+    color: white;
+    font-variant: small-caps;
+}
+
+a:hover {
+    color:wheat;
+    font-variant: small-caps;
+}
+
+.container {
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
